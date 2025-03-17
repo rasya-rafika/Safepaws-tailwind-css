@@ -14,6 +14,7 @@ window.onscroll = function () {
     toTop.classList.add('hidden');
   }
 };
+
 // Navbar Fixed saat pertama kali load
 document.addEventListener('DOMContentLoaded', () => {
   const header = document.querySelector('header');
